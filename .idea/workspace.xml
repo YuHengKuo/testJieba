@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1353888f-32dd-4dbd-8ddb-4e5c47482e20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iCookcut.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iCookcut.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stop_words.txt" afterDir="false" />
@@ -21,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_dict.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="320036" column="7" selection-start-line="320036" selection-start-column="7" selection-end-line="320036" selection-end-column="7" />
+            <state relative-caret-position="116">
+              <caret line="573081" column="8" selection-start-line="573081" selection-start-column="8" selection-end-line="573081" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stop_words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="637" column="4" selection-start-line="637" selection-start-column="4" selection-end-line="637" selection-end-column="4" />
+            <state relative-caret-position="95">
+              <caret line="325" column="1" selection-start-line="325" selection-start-column="1" selection-end-line="325" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,13 +49,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>醋</find>
-      <find>麵</find>
-      <find>節瓜</find>
-      <find>蘭姆</find>
-      <find>熱開水</find>
-      <find>蒜</find>
-      <find>鍋具</find>
       <find>滾水</find>
       <find>蟹</find>
       <find>根</find>
@@ -80,7 +71,14 @@
       <find>苔絲</find>
       <find>煮</find>
       <find>馬蹄</find>
+      <find>淡菜</find>
       <find>炙</find>
+      <find>蠔油</find>
+      <find>對半</find>
+      <find>一支</find>
+      <find>蛋</find>
+      <find>無鹽</find>
+      <find>魚片</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,8 +98,8 @@
         <option value="$PROJECT_DIR$/test.ipynb" />
         <option value="$PROJECT_DIR$/processed_iCook.txt" />
         <option value="$PROJECT_DIR$/iCookcut.ipynb" />
-        <option value="$PROJECT_DIR$/stop_words.txt" />
         <option value="$PROJECT_DIR$/user_dict.txt" />
+        <option value="$PROJECT_DIR$/stop_words.txt" />
       </list>
     </option>
   </component>
@@ -218,12 +216,12 @@
       <workItem from="1550771829238" duration="526000" />
       <workItem from="1551078712833" duration="388000" />
       <workItem from="1551527672780" duration="23760000" />
-      <workItem from="1551712027992" duration="20764000" />
+      <workItem from="1551712027992" duration="21718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56154000" />
+    <option name="totallyTimeSpent" value="57108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
@@ -383,17 +381,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stop_words.txt">
+    <entry file="file://$PROJECT_DIR$/user_dict.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="637" column="4" selection-start-line="637" selection-start-column="4" selection-end-line="637" selection-end-column="4" />
+        <state relative-caret-position="116">
+          <caret line="573081" column="8" selection-start-line="573081" selection-start-column="8" selection-end-line="573081" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_dict.txt">
+    <entry file="file://$PROJECT_DIR$/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="320036" column="7" selection-start-line="320036" selection-start-column="7" selection-end-line="320036" selection-end-column="7" />
+        <state relative-caret-position="95">
+          <caret line="325" column="1" selection-start-line="325" selection-start-column="1" selection-end-line="325" selection-end-column="1" />
         </state>
       </provider>
     </entry>
