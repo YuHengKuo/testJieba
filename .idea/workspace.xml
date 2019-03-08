@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1353888f-32dd-4dbd-8ddb-4e5c47482e20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iCookcut.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iCookcut.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stop_words.txt" afterDir="false" />
@@ -18,26 +19,7 @@
     <SUITE FILE_PATH="coverage/testJieba$testJieba.coverage" NAME="testJieba Coverage Results" MODIFIED="1552022986064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user_dict.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="559627" column="9" selection-start-line="559627" selection-start-column="9" selection-end-line="559627" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stop_words.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="845" column="1" selection-start-line="845" selection-start-column="1" selection-end-line="845" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,8 +31,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>精低</find>
-      <find>大</find>
       <find>山</find>
       <find>頭</find>
       <find>切小塊紅</find>
@@ -79,6 +59,8 @@
       <find>食</find>
       <find>食材</find>
       <find>杯</find>
+      <find>玫瑰</find>
+      <find>香草</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,8 +80,8 @@
         <option value="$PROJECT_DIR$/test.ipynb" />
         <option value="$PROJECT_DIR$/processed_iCook.txt" />
         <option value="$PROJECT_DIR$/iCookcut.ipynb" />
-        <option value="$PROJECT_DIR$/user_dict.txt" />
         <option value="$PROJECT_DIR$/stop_words.txt" />
+        <option value="$PROJECT_DIR$/user_dict.txt" />
       </list>
     </option>
   </component>
@@ -216,16 +198,15 @@
       <workItem from="1550771829238" duration="526000" />
       <workItem from="1551078712833" duration="388000" />
       <workItem from="1551527672780" duration="23760000" />
-      <workItem from="1551712027992" duration="23419000" />
+      <workItem from="1551712027992" duration="23919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58809000" />
+    <option name="totallyTimeSpent" value="59309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -355,20 +336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/translate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iCookcut.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="16395">
@@ -381,17 +348,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_dict.txt">
+    <entry file="file://$PROJECT_DIR$/translate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="559627" column="9" selection-start-line="559627" selection-start-column="9" selection-end-line="559627" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="845" column="1" selection-start-line="845" selection-start-column="1" selection-end-line="845" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCookcut.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="320041" column="6" lean-forward="true" selection-start-line="320041" selection-start-column="6" selection-end-line="320041" selection-end-column="6" />
         </state>
       </provider>
     </entry>
