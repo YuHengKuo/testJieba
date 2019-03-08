@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1353888f-32dd-4dbd-8ddb-4e5c47482e20" name="Default Changelist" comment="" />
+    <list default="true" id="1353888f-32dd-4dbd-8ddb-4e5c47482e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCookcut.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iCookcut.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stop_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/user_dict.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/user_dict.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
-              <caret line="147647" column="10" lean-forward="true" selection-start-line="147647" selection-start-column="10" selection-end-line="147647" selection-end-column="10" />
+              <caret line="320036" column="7" selection-start-line="320036" selection-start-column="7" selection-end-line="320036" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -26,17 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stop_words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="631" column="1" selection-start-line="631" selection-start-column="1" selection-end-line="631" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.txt">
-          <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="16395">
-              <caret line="1093" column="1" selection-start-line="1093" selection-start-column="1" selection-end-line="1093" selection-end-column="3" />
+            <state relative-caret-position="317">
+              <caret line="637" column="4" selection-start-line="637" selection-start-column="4" selection-end-line="637" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -53,13 +51,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>麪</find>
-      <find>蔭</find>
-      <find>里肌</find>
-      <find>鹽</find>
-      <find>透</find>
-      <find>玉米</find>
-      <find>清水</find>
       <find>醋</find>
       <find>麵</find>
       <find>節瓜</find>
@@ -67,7 +58,6 @@
       <find>熱開水</find>
       <find>蒜</find>
       <find>鍋具</find>
-      <find>味</find>
       <find>滾水</find>
       <find>蟹</find>
       <find>根</find>
@@ -81,9 +71,20 @@
       <find>天</find>
       <find>糖</find>
       <find>精低</find>
-      <find>頭</find>
       <find>大</find>
+      <find>山</find>
+      <find>頭</find>
+      <find>切小塊紅</find>
+      <find>味</find>
+      <find>糊</find>
+      <find>苔絲</find>
+      <find>煮</find>
+      <find>馬蹄</find>
+      <find>炙</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,6 +109,9 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -214,12 +218,12 @@
       <workItem from="1550771829238" duration="526000" />
       <workItem from="1551078712833" duration="388000" />
       <workItem from="1551527672780" duration="23760000" />
-      <workItem from="1551712027992" duration="19015000" />
+      <workItem from="1551712027992" duration="20764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54405000" />
+    <option name="totallyTimeSpent" value="56154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
@@ -381,15 +385,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="631" column="1" selection-start-line="631" selection-start-column="1" selection-end-line="631" selection-end-column="1" />
+        <state relative-caret-position="317">
+          <caret line="637" column="4" selection-start-line="637" selection-start-column="4" selection-end-line="637" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_dict.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
-          <caret line="147647" column="10" lean-forward="true" selection-start-line="147647" selection-start-column="10" selection-end-line="147647" selection-end-column="10" />
+          <caret line="320036" column="7" selection-start-line="320036" selection-start-column="7" selection-end-line="320036" selection-end-column="7" />
         </state>
       </provider>
     </entry>
