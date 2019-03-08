@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_dict.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="573081" column="8" selection-start-line="573081" selection-start-column="8" selection-end-line="573081" selection-end-column="8" />
+            <state relative-caret-position="101">
+              <caret line="559627" column="9" selection-start-line="559627" selection-start-column="9" selection-end-line="559627" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stop_words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="325" column="1" selection-start-line="325" selection-start-column="1" selection-end-line="325" selection-end-column="1" />
+            <state relative-caret-position="155">
+              <caret line="845" column="1" selection-start-line="845" selection-start-column="1" selection-end-line="845" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -49,18 +49,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>滾水</find>
-      <find>蟹</find>
-      <find>根</find>
-      <find>跟</find>
-      <find>製冰</find>
-      <find>鑄</find>
-      <find>好</find>
-      <find>湯水</find>
-      <find>蔓</find>
-      <find>水</find>
-      <find>天</find>
-      <find>糖</find>
       <find>精低</find>
       <find>大</find>
       <find>山</find>
@@ -79,6 +67,18 @@
       <find>蛋</find>
       <find>無鹽</find>
       <find>魚片</find>
+      <find>中筋</find>
+      <find>乾貝</find>
+      <find>干貝</find>
+      <find>辣椒</find>
+      <find>胡椒</find>
+      <find>美</find>
+      <find>起士</find>
+      <find>芋</find>
+      <find>飲用</find>
+      <find>食</find>
+      <find>食材</find>
+      <find>杯</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -216,12 +216,12 @@
       <workItem from="1550771829238" duration="526000" />
       <workItem from="1551078712833" duration="388000" />
       <workItem from="1551527672780" duration="23760000" />
-      <workItem from="1551712027992" duration="21718000" />
+      <workItem from="1551712027992" duration="23419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57108000" />
+    <option name="totallyTimeSpent" value="58809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
@@ -383,15 +383,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_dict.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="573081" column="8" selection-start-line="573081" selection-start-column="8" selection-end-line="573081" selection-end-column="8" />
+        <state relative-caret-position="101">
+          <caret line="559627" column="9" selection-start-line="559627" selection-start-column="9" selection-end-line="559627" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="325" column="1" selection-start-line="325" selection-start-column="1" selection-end-line="325" selection-end-column="1" />
+        <state relative-caret-position="155">
+          <caret line="845" column="1" selection-start-line="845" selection-start-column="1" selection-end-line="845" selection-end-column="1" />
         </state>
       </provider>
     </entry>
