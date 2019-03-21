@@ -16,10 +16,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/testJieba$translate.coverage" NAME="translate Coverage Results" MODIFIED="1552021140025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/testJieba$testJieba.coverage" NAME="testJieba Coverage Results" MODIFIED="1552022986064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/testJieba$testJieba.coverage" NAME="testJieba Coverage Results" MODIFIED="1553073832198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,15 +31,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>山</find>
-      <find>頭</find>
-      <find>切小塊紅</find>
-      <find>味</find>
-      <find>糊</find>
-      <find>苔絲</find>
-      <find>煮</find>
-      <find>馬蹄</find>
-      <find>淡菜</find>
       <find>炙</find>
       <find>蠔油</find>
       <find>對半</find>
@@ -61,7 +52,19 @@
       <find>杯</find>
       <find>玫瑰</find>
       <find>香草</find>
+      <find>一塊</find>
+      <find>鹽巴</find>
+      <find>鹽適量</find>
+      <find>雞</find>
+      <find>如</find>
+      <find>個</find>
+      <find>白</find>
+      <find>白水</find>
+      <find>顆鷹</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,15 +83,15 @@
         <option value="$PROJECT_DIR$/test.ipynb" />
         <option value="$PROJECT_DIR$/processed_iCook.txt" />
         <option value="$PROJECT_DIR$/iCookcut.ipynb" />
-        <option value="$PROJECT_DIR$/stop_words.txt" />
         <option value="$PROJECT_DIR$/user_dict.txt" />
+        <option value="$PROJECT_DIR$/stop_words.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="804" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -98,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,6 +112,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,22 +201,24 @@
       <workItem from="1550771829238" duration="526000" />
       <workItem from="1551078712833" duration="388000" />
       <workItem from="1551527672780" duration="23760000" />
-      <workItem from="1551712027992" duration="23919000" />
+      <workItem from="1551712027992" duration="24566000" />
+      <workItem from="1552576819769" duration="503000" />
+      <workItem from="1553066160898" duration="5616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59309000" />
+    <option name="totallyTimeSpent" value="66075000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,13 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb" />
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/iCookcut-checkpoint.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -329,50 +328,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processed_iCook.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="16395">
-          <caret line="1093" column="1" selection-start-line="1093" selection-start-column="1" selection-end-line="1093" selection-end-column="3" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="107001" column="2" selection-start-line="107001" selection-start-column="2" selection-end-line="107001" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/translate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stop_words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_iCook.txt" />
+    <entry file="file://$PROJECT_DIR$/translate.py" />
     <entry file="file://$PROJECT_DIR$/iCookcut.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_dict.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="320041" column="6" lean-forward="true" selection-start-line="320041" selection-start-column="6" selection-end-line="320041" selection-end-column="6" />
+        <state relative-caret-position="145">
+          <caret line="407574" column="6" selection-start-line="407574" selection-start-column="6" selection-end-line="407574" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stop_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="16327">
+          <caret line="1093" column="1" selection-start-line="1093" selection-start-column="1" selection-end-line="1093" selection-end-column="1" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1877">
+          <caret line="10930" column="16" selection-start-line="10930" selection-start-column="16" selection-end-line="10930" selection-end-column="16" />
         </state>
       </provider>
     </entry>
